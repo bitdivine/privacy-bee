@@ -41,7 +41,7 @@ export function LandingPage() {
                         Privacy Matters
                     </h1>
                     <p className="text-lg sm:text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
-                        Your data, your rights, your choice.
+                        Your data, your rights, your choice, your ice cream.
                     </p>
                 </div>
             </main>
